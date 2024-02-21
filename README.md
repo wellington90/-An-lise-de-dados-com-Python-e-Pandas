@@ -45,6 +45,9 @@ A análise de dados com Python e Pandas, juntamente com técnicas de análise ex
 Lembre-se de que a prática é fundamental para aprimorar suas habilidades em análise de dados. Experimente diferentes conjuntos de dados, explore novas técnicas e continue aprendendo. Com dedicação e experiência, você se tornará um profissional mais competente e confiante na análise de dados.
 
 Referência aos notebooks utilizados:
+- [Formacao_Python_Developer](https://github.com/wellington90/Formacao_Python_Developer)
 - [Analise_Exploratoria.ipynb](https://github.com/wellington90/Analise-de-dados-com-Python-e-Pandas/blob/main/Analise_Exploratoria.ipynb)
 - [Planilhas_do_Excel.ipynb](https://github.com/wellington90/Analise-de-dados-com-Python-e-Pandas/blob/main/Planilhas_do_Excel.ipynb)
 - [Visualizacao.ipynb](https://github.com/wellington90/Analise-de-dados-com-Python-e-Pandas/blob/main/Visualizacao.ipynb)
+ 
+
